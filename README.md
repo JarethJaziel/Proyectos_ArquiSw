@@ -13,7 +13,7 @@ En este repositorio se lleva un registro de las actividades necesarias para el d
 ---
 
 ### Cuevas García Braulio Samuel
-![Braulio](./imagenes/braulio.jpg)
+<img src="./imagenes/braulio.jpg" alt="Braulio Samuel" width="200">
 
 **Presentación:**  
 Escribe aquí una breve descripción o presentación personal.  
@@ -22,7 +22,7 @@ Por ejemplo: *"Soy estudiante de ... me interesa ... y mi rol en el proyecto es 
 ---
 
 ### Dzay Villanueva Mauricio
-![Mauricio](./imagenes/mauricio.jpg)
+<img src="./imagenes/mauricio.jpg" alt="Mauricio Dzay" width="200">
 
 **Presentación:**  
 Escribe aquí una breve descripción o presentación personal.  
@@ -30,13 +30,12 @@ Escribe aquí una breve descripción o presentación personal.
 ---
 
 ### Moo Pan Jareth Jaziel
-![Jareth](.imagenes/jareth.jpg)
+<img src="./imagenes/jareth.png" alt="Jareth Moo" width="200">
 
 **Presentación:**  
 Escribe aquí una breve descripción o presentación personal.  
 
 ---
-
 
 ---
 ## Documentación:
