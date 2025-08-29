@@ -16,8 +16,7 @@ En este repositorio se lleva un registro de las actividades necesarias para el d
 <img src="./imagenes/braulio.jpg" alt="Braulio Samuel" width="200">
 
 **Presentación:**  
-Escribe aquí una breve descripción o presentación personal.  
-Por ejemplo: *"Soy estudiante de ... me interesa ... y mi rol en el proyecto es ..."*  
+*"Soy un estudiante de ingenierisa en software de la Uady, me gusta el mundo de la tecnología e informática, del deporte y de la música, soy una persona tiene gran habilidad para trabajar lo mismo durante mucho tiempo sin "fastidiarse"."*  
 
 ---
 
@@ -25,7 +24,7 @@ Por ejemplo: *"Soy estudiante de ... me interesa ... y mi rol en el proyecto es 
 <img src="./imagenes/mauricio.jpg" alt="Mauricio Dzay" width="200">
 
 **Presentación:**  
-Escribe aquí una breve descripción o presentación personal.  
+*"Soy un apasionado de la programación y me considero bastante autodidacta. Dedico parte de mi tiempo libre a seguir aprendiendo de todo un poco, con la idea de que, en el futuro, estaré preparado para buscar soluciones, resolver problemas y liderar cualquier tipo de situación."*
 
 ---
 
@@ -33,7 +32,7 @@ Escribe aquí una breve descripción o presentación personal.
 <img src="./imagenes/jareth.png" alt="Jareth Moo" width="200">
 
 **Presentación:**  
-Escribe aquí una breve descripción o presentación personal.  
+*"Soy Jareth Moo, un estudiante de ingeniería de software, apasionado por Dios, la tecnología, las matemáticas y, en general, todo el mudo informático. Me encanta disfrutar de mi tiempo libre, pero aprovecharlo también para aprender cosas nuevas."*
 
 ---
 
