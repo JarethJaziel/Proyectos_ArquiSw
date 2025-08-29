@@ -38,4 +38,4 @@ En este repositorio se lleva un registro de las actividades necesarias para el d
 
 ## Documentación:
 
-[📂 Ir a la carpeta de la Primera Entrega](./Primera_Entrega/)
+[📂 Ver Primera Entrega](./Primera_Entrega/)
