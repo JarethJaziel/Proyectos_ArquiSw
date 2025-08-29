@@ -16,7 +16,7 @@ En este repositorio se lleva un registro de las actividades necesarias para el d
 <img src="./imagenes/braulio.jpg" alt="Braulio Samuel" width="200">
 
 **Presentación:**  
-*"Soy un estudiante de ingenierisa en software de la Uady, me gusta el mundo de la tecnología e informática, del deporte y de la música, soy una persona tiene gran habilidad para trabajar lo mismo durante mucho tiempo sin "fastidiarse"."*  
+*"Soy un estudiante de ingeniería de software de la Uady, me gusta el mundo de la tecnología e informática, del deporte y de la música, soy una persona tiene gran habilidad para trabajar lo mismo durante mucho tiempo sin "fastidiarse"."*  
 
 ---
 
